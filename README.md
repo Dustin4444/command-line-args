@@ -3,7 +3,6 @@
 [![Gihub repo dependents](https://badgen.net/github/dependents-repo/75lb/command-line-args)](https://github.com/75lb/command-line-args/network/dependents?dependent_type=REPOSITORY)
 [![Gihub package dependents](https://badgen.net/github/dependents-pkg/75lb/command-line-args)](https://github.com/75lb/command-line-args/network/dependents?dependent_type=PACKAGE)
 [![Node.js CI](https://github.com/75lb/command-line-args/actions/workflows/node.js.yml/badge.svg)](https://github.com/75lb/command-line-args/actions/workflows/node.js.yml)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 ***Upgraders, please read the [release notes](https://github.com/75lb/command-line-args/releases)***
 
@@ -102,6 +101,6 @@ $ npm install command-line-args --save
 ```
 * * *
 
-&copy; 2014-24 [Lloyd Brookes](https://github.com/75lb) \<opensource@75lb.com\>.
+&copy; 2014-26 [Lloyd Brookes](https://github.com/75lb) \<opensource@75lb.com\>.
 
 Documented by [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown).
